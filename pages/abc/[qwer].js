@@ -1,11 +1,6 @@
 import Link from "next/link";
 
 const Qwer = () => {
-  //   const router = useRouter();
-  //   const episodeData = router.query.object;
-  //   if (episodeData && !Array.isArray(episodeData)) {
-  //     return <PodcastPlayer episodeData={JSON.parse(episodeData)} />;
-  //   }
   return (
     <div>
       <div>This is Qwer</div>
